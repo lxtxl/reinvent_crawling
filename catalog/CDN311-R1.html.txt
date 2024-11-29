@@ -1,0 +1,1 @@
+공개 API는 최신 응용 프로그램에 필수적이므로 플랫폼 전체의 원활한 통신을 가능하게합니다.그러나 노출 증가로 인해 보안 위험이 높아지고 성능 문제가 발생합니다.이 Chalk Talk는 성능을 최적화하면서 공공 휴식/HTTP API를 보호하기위한 모범 사례와 도구를 제공합니다.Amazon API Gateway, AWS AppSync, Amazon EC2 및 Amazon EKS와 같은 플랫폼에서 Amazon Cloudfront 및 AWS WAF와 같은 AWS 관리 서비스가 어떻게 공개 API를 보호 할 수 있는지 알아보십시오.API 보안을 향상시키기위한 참조 설계 및 실제 전략을 탐색하십시오.

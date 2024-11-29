@@ -1,0 +1,1 @@
+Gen AI 시스템이 더욱 발전함에 따라 사회적 편견을 영속시키는 것에 대한 우려가 커지고 있습니다.이 강의는 개발 과정에서 편견을 완화하기위한 Gen AI 워크로드 및 전략과 관련된 과제를 조사하고 Amazon Bedrock Guardrails, Amazon Sagemaker Clestify 및 Sagemaker 데이터 Wrangler와 같은 기능에 대해 설명합니다.공정하고 투명하며 사회적으로 책임이있는 Gen AI 워크로드를 설계하는 방법을 배우십시오.

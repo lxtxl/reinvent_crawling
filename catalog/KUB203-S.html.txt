@@ -1,0 +1,5 @@
+Communications Intelligence의 리더 인 Smarsh는 Amazon EKS로 마이그레이션하면서 플랫폼 제품 문화를 변화 시켰습니다.
+이 Lightning Talk는 VMware Tanzu에서 Amazon EKS로 마이그레이션하고 관찰 가능성을 높이고 일관된 배포를 보장하며 자조 서비스를 구현함으로써 Smarsh의 스케
+일링 및 탄력성 접근 방식을 탐구합니다.
+플랫폼 엔지니어링 프레임 워크 내에서 제품 중심 팀의 형성이 고객 중심, 소유권 및 지속적인 혁신의 문화를 장려하여 Smarsh가 계속 진화하는 고객 요구를 충족시킬 수 
+있도록하는 방법을 알아보십시오.이 프레젠테이션은 AWS 파트너 인 Smarsh가 제공합니다.

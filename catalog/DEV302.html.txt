@@ -1,0 +1,5 @@
+Honeycomb가 AWS Graviton에서 실행되도록 작업량을 포팅하고 세대의 혜택을 누리는 방법을 들어보십시오.
+Graviton 기반 인스턴스 패밀리의 개선.이 세션은 Amazon EKS 오케스트레이션 사용에 중점을 둡니다
+Amazon EC2 인스턴스이지만 AWS Lambda, Amazon RDS 및 Amazon OpenSearch Service에도 포함됩니다.이것
+세션은 개발자 워크 플로를 개선하고 가격 성능을 향상시키는 방법에 대해 논의합니다.
+Graviton Journey 또는 Enterprise 전체에서 채택을 확장하십시오.

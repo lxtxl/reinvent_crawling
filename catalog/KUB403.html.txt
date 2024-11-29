@@ -1,0 +1,4 @@
+주요 오픈 소스 프레임 워크를 사용하여 Amazon EK에서 LLM (Lange Language Model) 추론의 잠재력을 발휘하십시오.
+Amazon EKS-Aptimized AMIS 및 NVIDIA CUDA RUNTIMES를 사용하여 확장 가능하고 GPU 가속화 된 클러스터를 구성하는 방법을 배웁니다.
+이 초크 토크는 최첨단 오픈 소스 추론 엔진을 LLM 프레임 워크와 비교합니다.
+성능 지표, 자동 스케일링 기능, NVIDIA GPU 추론 실행 및 AWS 서비스와의 원활한 통합을 탐색하여 효율성과 확장 성을 최대한 활용하십시오.

@@ -1,0 +1,1 @@
+이 빌더 세션에서 Amazon Q Developer를 탐색하여 AI Coding Assistant를 사용하여 AWS Systems Manager Runbook을 작성한 다음 Microsoft 팀 및 Slack의 더 빠른 사고 해상도를 위해 AWS Chatbot 구성과 연결하여 운영 효율성을 향상시킵니다.Amazon Q Developer를 사용하여 자신의 런북을 구축 한 다음 AWS Chatbot SDK를 사용하여 ChatOps를 구현하여 진단 및 치료 프로세스의 일부로 구현하는 방법을 배우십시오.마지막으로, 채팅 채널의 문제를 공동으로 진단하기 위해 구성한 Chatops 도구를 사용하십시오.참여하려면 노트북을 가져와야합니다.

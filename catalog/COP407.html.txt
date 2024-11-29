@@ -1,0 +1,1 @@
+조직이 점점 더 클라우드 네이티브 아키텍처를 수용하고 응용 프로그램을 규모에 따라 배포함에 따라 강력한 보안 제어가 가장 중요합니다.이 코드 토크에서 전문가들은 AWS CloudFormation Hooks 및 AWS CloudFormation Guard를 사용하여 보안 모범 사례에 대해 논의합니다.정적 템플릿 유효성 검사 및 CloudFormation Hook 및 AWS 구성 사용자 정의 규칙과 통합에 사용할 수있는 가드 DSL 규칙을 작성하는 방법을 배웁니다.

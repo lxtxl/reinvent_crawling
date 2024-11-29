@@ -1,0 +1,1 @@
+AWS 운영을 간소화하려면 Amazon Q Developer의 힘을 잠금 해제하십시오.이 세션에서는 AWS 콘솔 내 에서이 혁신적인 도구를 사용하여 AWS Lambda, Amazon ECS, Amazon EC2, Amazon S3 등을 가속화하기 위해 AWS 콘솔 내 에서이 혁신적인 도구를 사용하는 방법을 알아보십시오.Amazon Redshift, AWS Glue 및 Amazon VPC의 Harness First-Party Skills는 Wiz 및 Datadog와의 타사 통합을 탐색합니다.AWS 환경을 최적화하고 운영 작업을 과급하는 데 대한 통찰력을 얻고 더 열심히 일하지 않고 더 똑똑하게 일할 수 있도록 힘을 실어주십시오.

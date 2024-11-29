@@ -1,0 +1,1 @@
+이 실습 제작자 세션은 Siemens PLCS를 규모로 연결하고 노출 된 데이터를 결정하며 Amazon Bedrock과 함께 생성 AI를 사용하여 AWS IoT Sitewise 계층을 생성하는 프로세스를 안내합니다.Brownfield PLC에서 노출 된 데이터를 가져 오는 방법을 배우십시오.AWS IoT Sitewise, AWS IoT Greengrass 및 Amazon Bedrock을 사용하여 ISA-95 호환 자산 계층 구조를 만듭니다.라이브 데이터를 표시하는 대시 보드를 작성하십시오.이 세션은 통합 네임 스페이스를 구축하고 공장을 규모로 연결하는 데 필요한 기술을 마스터하는 단계별로 실용적인 접근 방식을 제공합니다.참여하려면 노트북을 가져와야합니다.

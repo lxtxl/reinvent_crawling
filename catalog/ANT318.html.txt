@@ -1,0 +1,1 @@
+스트리밍 데이터는 생존하지 않고 규모로 생성되며 실시간 분석을 위해 몇 초 안에 처리되어야합니다.이것은 규모와 비용 효율성에 대한 독특한 설계 과제를 제시합니다.이 Chalk Talk에서 Amazon Data Firehose, Amazon Kinesis Data Streams 및 Amazon MSK Server Less와 같은 AWS 서버리스 서비스를 사용하여 Amazon S3, Apache Iceberg 또는 Amazon Redshift로 데이터베이스 CDC 스트림을 포함하여 실시간 스트림을 제공하는 방법을 알아보십시오.잘 알려진 솔루션 및 데모를 통해 규모로 데이터 처리에 대한 통찰력을 얻고 운영 비용을 최적화하십시오.

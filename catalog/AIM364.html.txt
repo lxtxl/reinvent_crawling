@@ -1,0 +1,1 @@
+오늘날의 빠르게 진행되는 디지털 세계에서 비즈니스는 경쟁을 앞당기 위해 혁신적인 응용 프로그램과 서비스를 신속하게 제공해야합니다.AWS는 코드가없는 생성 AI 도구 인 Partyrock을 구축하기 시작했을 때이 도전에 직면했습니다.이 초크 토크에서 Amazon Bedrock, Amazon Cognito 및 AWS Serverless Technologies의 힘을 사용하여 안전하고 빠르며 확장 가능한 솔루션을 만드는 여정을 들으십시오.기술 아키텍처, 학습 한 교훈 및 모범 사례를 탐색하여 자체 프로젝트를위한 Amazon Bedrock 및 Serverless Technologies의 잠재력을 최대한 활용할 수 있습니다.

@@ -1,0 +1,1 @@
+컨테이너화 된 워크로드를 실행하는 많은 조직은 PHI (Protected Health Information) 보안을위한 HIPAA 개인 정보 및 보안 규칙과 관련된 엄격한 데이터 보호 및 준수 요구 사항을 충족해야합니다.이 빌더 세션은 Amazon ECS 및 기타 AWS 서비스를 사용하여 PHI를 포함하는 컨테이너 애플리케이션을 실행하는 방법에 중점을 둡니다.Amazon ECS, Amazon ECR, AWS Fargate, Amazon Guardduty 등과 모범 사례를 배우십시오.참여하려면 노트북을 가져와야합니다.

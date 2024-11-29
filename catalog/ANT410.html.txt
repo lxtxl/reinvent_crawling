@@ -1,0 +1,1 @@
+이 Chalk Talk에서 Kubernetes에서 실행되는 Amazon Eks가 제공 한 관리 경험을 활용하는 이점을 탐색하십시오.Amazon 최적화 된 Spark Engine을 사용하여 Spark Workloads를 시작하는 방법을 배우고 EK 클러스터를 프로비저닝 및 관리하며 다양한 데이터 처리 및 기계 학습 작업에서 효율적인 리소스 활용 및 비용 최적화를 보장하십시오.또한 여러 EMR 워크로드를 공동으로 집중시키는 모범 사례에 대해 배우고 자원 관리 중앙 집중식을 통해 EKS 경험에 대한 Amazon EMR을 더욱 최대화합니다.

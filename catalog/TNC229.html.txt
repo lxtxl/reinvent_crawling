@@ -1,0 +1,1 @@
+생성 AI에 의해 구동되는이 새로운 대화 형 교육 세션에서는 고객 입력을 사용하여 셀프 서비스 권장 도구를 구현하여 시뮬레이션 된 비즈니스 시나리오를 해결합니다.시맨틱 검색, 검색 증강 세대 (RAG) 및 LLM (Lange Language Models)이 대화식 AI를 향상시킬 수있는 방법을 살펴보십시오.Amazon OpenSearch Service를 임베딩 벡터 데이터베이스로 활용하고 Amazon Sagemaker와 함께 사전 각인 LLM을 배포합니다.기계 학습 작업에 Sagemaker Studio를 사용하십시오.이 세션에는 노트북이 필요합니다.

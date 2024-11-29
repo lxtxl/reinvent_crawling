@@ -1,0 +1,8 @@
+NVIDIA가 AWS에서 컴퓨팅을 가속화하는 방법을 살펴보십시오. 최신 Blackwell, Hopper 및 Ada를 찾아
+Lovelace 플랫폼 - 생성 AI 워크로드의 문제를 해결합니다.이 세션은 프로젝트를 조명합니다
+Ceiba, NVIDIA GB200 NVL72를 특징으로하는 슈퍼 컴퓨터 인 20,736 NVIDIA Blackwell GPUS 및
+10,368 Nvidia Grace CPU, 탄성 직물 어댑터 (EFA)로 AI 성능의 414 엑사 플롭 제공
+비교할 수없는 성능, 효율성을 달성하기위한 네트워킹 및 최첨단 액체 냉각 솔루션,
+그리고 규모.또한 Blackwell 암호화를 AWS Nitro와 통합하는 보안 솔루션의 데모를 참조하십시오.
+시스템, AWS KMS 및 EFA를 통해 엔드 투 엔드 암호화 데이터 보호를 보장합니다.이 프레젠테이션은 제공됩니다
+AWS 파트너 인 Nvidia의 당신.

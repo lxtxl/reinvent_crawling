@@ -1,0 +1,1 @@
+머신 러닝 (ML) 라이프 사이클을 간소화하기위한 포괄적 인 IDE 인 Amazon Sagemaker Studio의 힘을 잠금 해제하십시오.Data Exploration, Transformation, Automl을 사용한 자동 기능 엔지니어링 및 통합 Jupyter 노트북을 사용한 협업 코딩을 탐색하십시오.Sagemaker Studio Mlops 통합이 모델 배포, 모니터링 및 거버넌스를 단순화하는 방법을 알아보십시오.라이브 데모 및 모범 사례를 통해 효율적인 기능 엔지니어링, 모델 개발, 협업 및 데이터 보안을위한 Sagemaker Studio 도구를 활용하는 방법을 배우십시오.

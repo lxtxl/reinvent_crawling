@@ -1,0 +1,1 @@
+AWS Fargate는 고객이 컨테이너 워크로드 배포 및 모니터링의 운영 부담을 줄이고 응용 프로그램 구축 및 비즈니스 운영에 집중할 수 있도록 도와줍니다.이 Chalk Talk에서 Amazon ECS에서 실행되는 Amazon EC2에서 AWS Fargate Serverless Compute로 워크로드를 마이그레이션하기위한 설계 고려 사항에 대해 알아보십시오.

@@ -1,0 +1,1 @@
+이 Lightning Talk는 고객이 제조, 공급망 및 자동차 산업을위한 차세대 지능형 SAP 응용 프로그램을 구축하기 위해 AWS 및 SAP 생성 AI 서비스를 활용할 수있는 지침을 공유합니다.Amazon Bedrock을 사용하여 SAP를 구축하는 방법과 고객이 SAP AI Core 내에서 Amazon Bedrock을 활용하는 방법을 알아보십시오.AWS 서비스를 통해 지능형 SAP 애플리케이션을 구축 할 수있는 통찰력을 얻으십시오.이 대화는 AWS 파트너를위한 것입니다.

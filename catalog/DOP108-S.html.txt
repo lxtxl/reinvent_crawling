@@ -1,0 +1,1 @@
+Heroku Developer 플랫폼과 Salesforce의 계획에 대해 알아보십시오. Kubernetes가 구동하는 차세대 플랫폼으로 반복하고 확장하여 클라우드 네이티브 표준과 최첨단 우편둥이 제품을 수용하십시오.이 프레젠테이션은 AWS 파트너 인 Salesforce가 제공합니다.

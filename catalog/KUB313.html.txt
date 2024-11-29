@@ -1,0 +1,4 @@
+Amazon Elastic Kubernetes Service (Amazon EKS)는 조직이 기계 학습 운영을 다루도록 도와줍니다.
+(MLOPS) 고도로 안전하고 신뢰할 수 있고 확장 가능하며 유연한 Kubernetes 환경을 제공함으로써 도전
+클라우드에서.이 초크 토크에서 훈련, 미세 조정 및 서빙을위한 건축 패턴을 탐색하십시오.
+Amazon EKS, Amazon EC2 및 AWS 스토리지 서비스를 사용한 기계 학습 모델.

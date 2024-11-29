@@ -1,0 +1,6 @@
+이 실습 세션에서 Amazon Elastic Kubernetes Service (Amazon EKS) 클러스터의 위험에 대한 식별, 분석 및 완화를 자동화하는 방법을 살펴보십시오.
+RBAC (Role-Based Access Control), EKS POD ID 및 서비스 계정을 포함한 강력한 보안 제어를 구현하는 방법을 배우면서 최소 소외적 인 액세스를 적용하고 
+보안 워크로드 격리를 적용하십시오.
+또한 AWS CloudTrail 및 Amazon CloudWatch를 사용하여 EKS 클러스터 활동에 대한 깊은 가시성을 얻어 실시간 모니터링 및 자동화 된 위험 감지를 가능하게합니다.
+위험 관리 프로세스를 자동화하는 기술을 배우고 Kubernetes의 작업량이 진화하는 위협에 대해 탄력적 인 상태를 유지하도록 도와줍니다.
+참여하려면 노트북을 가져와야합니다.

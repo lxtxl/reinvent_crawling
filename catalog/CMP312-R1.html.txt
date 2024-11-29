@@ -1,0 +1,1 @@
+Amazon EC2 스팟 인스턴스는 주문형 가격에 비해 가파른 할인으로 제공되는 Spare Amazon EC2 용량을 사용합니다.이 워크숍에서는 스팟 인스턴스를 만드는 데 사용되는 API 및 명령에 대해 알아보십시오.Amazon EC2 런치 템플릿을 만들고 템플릿을 사용하여 Amazon EC2 자동 스케일링 그룹, Amazon EC2 Spot Fleet, EC2 Fleet 및 EC2 Runinstances API를 사용하여 Amazon EC2 스팟 인스턴스를 시작하십시오.스팟 배치 점수 및 속성 기반 인스턴스 선택 및 AWS 결함 주입 서비스와 같은 도구와 같은 스팟 기능을 사용하는 방법을 알아보십시오.참여하려면 노트북을 가져와야합니다.

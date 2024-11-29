@@ -1,0 +1,1 @@
+Generative AI는 산업에 혁명을 일으킬 것을 약속하지만, 엄청난 계산 요구와 비용이 증가하면 상당한 도전이 발생합니다.이러한 장애물을 극복하기 위해 AWS는 AWS Trainium2 및 AWS Fellentia2를 포함한 AWS를 설계하고 목적으로 제작했습니다.이 세션에서는 Silicon, Server 및 Datacenter의 혁신을 면밀히 살펴보고 AWS AI Chips를 사용하여 다양한 제품 및 서비스에서 구축, 배포 및 스케일링 된 기초 모델에 대해 AWS 고객의 의견을 들으십시오.

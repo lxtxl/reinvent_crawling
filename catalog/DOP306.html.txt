@@ -1,0 +1,1 @@
+이 워크숍에서는 AWS CloudFormation 템플릿을 개발하고 테스트하는 방법을 배우십시오.CloudFormation 템플릿을 만들기 위해 리소스를 배포하고 관리하고 많은 시나리오에 대해 템플릿을 재사용하고 확장 할 수있는 CloudFormation 언어 기능에 대해 알아보십시오.CFN-Lint 및 CloudFormation Guard를 포함한 테스트 도구를 탐색하여 CloudFormation 템플릿을 검증하는 데 도움이됩니다.참여하려면 노트북을 가져와야합니다.

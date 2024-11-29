@@ -1,0 +1,1 @@
+Cloud 기반 Enterprise Resource Planning (ERP)으로의 이동을 가속화하기위한 입증 된 접근 방식을 탐색하십시오.이 Chalk Talk에서는 SAP와 함께하는 SAP 환경의 성능, 신뢰성 및 확장 성을 극대화하는 데 도움이되는 종종 보장 된 건축 관행을 배우십시오.Net이 대화식 세션에서 AWS가 SAP 워크로드를 어떻게 실행할 수 있는지 알아보십시오.

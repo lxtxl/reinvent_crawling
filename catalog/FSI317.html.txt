@@ -1,0 +1,1 @@
+이 번개 대화는 AWS를 기반으로하는 Robinhood의 LLM (Lange Language Model) 플랫폼의 기초를 형성하는 디자인과 기술을 공유합니다.회사가 LLM 게이트웨이와 Amazon Bedrock을 사용하여 개인 추론을 제공하여 성과를 희생하지 않고 고객 기밀을 유지하는 방법을 알아보십시오.Robinhood의 아키텍처 및 운영 모델에 대한 통찰력을 얻으므로 회사는 AI 기능을 확장 할 수 있습니다.Robinhood가 Amazon Bedrock의 보안 기능을 사용하여 진화하는 규제 표준을 준수하면서 민감한 데이터를 처리하는 방법을 들어보십시오.

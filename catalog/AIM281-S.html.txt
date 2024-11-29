@@ -1,0 +1,1 @@
+이 세션에서는 Amazon Sagemaker 및 Amazon Bedrock 기본 통합을 Salesforce Data Cloud와의 유용하여 예측 및 생성 AI 기능을 사용하여 Salesforce 애플리케이션에 전원을 공급하는 방법에 대해 알아보십시오.이 프레젠테이션은 AWS 파트너 인 Salesforce가 제공합니다.

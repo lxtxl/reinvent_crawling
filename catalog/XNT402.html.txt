@@ -1,0 +1,1 @@
+이 코드 토크에서 Amazon Bedrock 및 Amazon OpenSearch Service를 사용하여 .NET 애플리케이션을위한 스마트하고 시맨틱 이미지 검색 엔진을 구축하는 방법에 대해 알아보십시오.구현에는 Amazon Bedrock을 사용한 전처리 이미지, OpenSearch Service와 함께 데이터를 인덱싱 및 저장하고 사용자 상호 작용을위한 .NET 응용 프로그램 개발이 포함됩니다.이 도구를 사용하여 자신만의 강력한 이미지 검색 엔진을 만드는 방법을 알고이 토크를 남기십시오.

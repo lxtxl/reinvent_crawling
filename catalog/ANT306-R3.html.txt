@@ -1,0 +1,1 @@
+Apache Airflow (Amazon MWAA) 용 Amazon Managed Workflows는 데이터 처리 및 ML 워크 플로를 조정하기위한 관리되는 Apache Airflow 서비스입니다.이 건축업자 세션에서 Amazon MWAA가 공기 흐름 환경 관리 및 스케일링을 단순화하고 공기 흐름 DAG를 구축하여 수집, 변환 및 소비를위한 엔드 투 엔드 데이터 및 ML 처리 워크 플로우를 오케스트레이션하고 자동화하는 방법을 배우십시오.참여하려면 노트북을 가져와야합니다.

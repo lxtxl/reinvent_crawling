@@ -1,0 +1,1 @@
+이 워크숍에서는 데이터베이스를 AWS로 쉽고 안전하게 마이그레이션하고 지속적으로 복제 할 수있는 방법을 알아보십시오.AWS DMS (AWS Database Migration Service)의 관리 기능을 사용하여 Amazon Aurora 또는 Amazon RDS와 같은 AWS 관리 데이터베이스 엔진을 사용하여 자체 관리 데이터베이스를 현대화하기 위해 엔드 투 엔드 마이그레이션 단계를 살펴보십시오.Schemas 및 데이터베이스 코드를 변환 한 다음 Amazon Kinesis, Amazon S3 등과의 통합을 가능하게하기 위해 Schemas 및 데이터베이스 코드를 AWS DMS로 마이그레이션하고 복제하는 방법을 배우십시오.참여하려면 노트북을 가져와야합니다.

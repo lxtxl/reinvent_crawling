@@ -1,0 +1,6 @@
+Amazon EKS에 배치 된 컨테이너화 된 응용 프로그램은 고유 한 관측 성 문제를 제시합니다.
+이 번개 대화는 Amazon EKS 워크로드에 대한 가시성을 얻기위한 효과적인 전략을 탐구합니다.Amazon CloudWatch 컨테이너 통찰력, 애플리케이션 신호 및 
+Amazon CloudWatch Logs Insight와 같은 AWS 서비스를 사용하여 완전한 관찰 가능성 전략을 참조하십시오.
+이러한 서비스를 사용하여 Amazon EKS 워크로드에 대한 통찰력을 추적하고 빠르게 통찰력을 얻을 수있는 방법을 확인하십시오.
+Amazon EKS -Hosted Application의 건강과 성능을 사전에 모니터링하기 위해이 토크를 툴킷으로 남겨 두십시오.
+이 강의는 Kubernetes 환경에서 신뢰성과 빠른 문제 해결을 보장하는 데 필요한 Observability Foundation을 제공합니다.

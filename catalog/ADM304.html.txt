@@ -1,0 +1,1 @@
+XMARS와 DirecTV가 AMC (Amazon Marketing Cloud) 및 Amazon Publisher Cloud (AWS Clean Room에 구축)를 사용하여 Amazon DSP를 통해 광고 캠페인을 계획, 활성화 및 측정하는 방법을 알아보십시오.Amazon Ads가 개인 정보 보호 강화 데이터 협업을 통해 광고주와 게시자를 모아 원하는 청중에게보다 효과적으로 도달하는 차세대 영향력있는 캠페인을 추진하는 방법을 알아보십시오.참조 아키텍처에 액세스하고 청중 모델링에 AWS Clean Rooms ML을 사용하는 방법을 발견하십시오.

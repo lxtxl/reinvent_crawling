@@ -1,0 +1,1 @@
+클라우드 세계를 여행 할 때 두 명의 AWS 영웅 이야기를 위해 '라운드를 모으십시오.목표 : AWS에서 AWS를위한 교육 플랫폼을 구축하고 배치합니다.그들은 Amazon Cognito의 MFA와 함께 개발, AWS Amplify와 협력하고 AWS WAF와 함께 보안, Amazon DynamoDB의 지속적인 사용자, Amazon API 게이트웨이로 요청 처리 및 AWS Lambda 및 PowerTools로 건축하는 언덕을 통해 Amazon Cognito의 MFA와 함께 개발하는 계곡을 안내합니다.우리 모험가들이 그들의 탐구에 성공했는지 또는 마지막 "전초 기지"에 빠졌는지 보러 오십시오.

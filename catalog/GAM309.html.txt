@@ -1,0 +1,1 @@
+Supercell의 임무는 2 억 명이 넘는 월간 활성 사용자를 보유하고 있습니다.이 세션에서 Supercell이 최신 게임 인 Squad Busters에서 4 천만 명이 넘는 사전 출시 등록을 통해 어떻게 성공적인 글로벌 런칭을 달성했는지 알아 봅니다.Amazon EC2 Auto Scaling, AWS Graviton, Amazon Aurora I/O- 최적화 된 스토리지, AWS 카운트 다운 및 Amazon Cloudfront와 같은 AWS 서비스를 사용하여 Supercell이 백엔드 인프라를 전력하는 방법을 알아보십시오.대규모 사용자 유입을 처리 할 수있는 서비스와 전략을 탐구하면서 전 세계 플레이어 경험을 보장합니다.

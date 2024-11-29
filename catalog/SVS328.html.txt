@@ -1,0 +1,1 @@
+이 세션에서는 AWS Observability Services를 통해 Amazon EC에 배포 된 응용 프로그램을 향상시키는 방법을 살펴보십시오.Amazon CloudWatch Container Insights, AWS X-ray 및 MyApplications와 같은 최신 AWS 관측 성 기능을 활용하여 Amazon EC 환경에 대한 실행 가능한 통찰력을 얻는 방법을 알아보십시오.이 세션에서는 응용 프로그램 시나리오와 AWS 서비스를 효율적으로 사용하여 성능을 최적화하고 컨테이너화 된 응용 프로그램에 대한 더 깊은 이해를 얻는 방법을 다룹니다.

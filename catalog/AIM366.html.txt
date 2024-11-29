@@ -1,0 +1,1 @@
+Amazon Bedrock 사용자 정의 모델 가져 오기로 생성 AI 응용 프로그램 개발을 가속화하는 방법에 대해 알아보십시오.미세 조정 된 모델을 완전히 관리되는 서버리스 환경으로 원활하게 가져오고 Amazon Bedrock 표준화 된 API 및 Amazon Bedrock Agent 및 Amazon Bedrock Knowledge Base와 같은 기능을 사용하여 Gen AI 애플리케이션 개발을 가속화합니다.Salesforce 가이 기능을 통해 높은 정확도를 유지하면서 73%의 비용 절감을 달성 한 방법을 알아보십시오.미세 조정 된 모델을 사용하여 생산 준비가되고 서버리스 생성 AI 애플리케이션을 구축하는 방법에 대한 지식을 가지고 있습니다.

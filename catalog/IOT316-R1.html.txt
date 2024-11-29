@@ -1,0 +1,1 @@
+이 워크숍에서는 NVIDIA JetPack SDK를 통해 AWS IoT Greengrass를 NVIDIA Jetson 서버에로드하고 Edge Server에 원격으로 로그인하고 Edge 장치에 AWS IoT Greengrass 구성 요소를 배포하는 프로세스를 걸어갑니다.AWS IoT Core 및 AWS IoT Greengrass를 사용하여 실제 경험을 얻으려면 클라우드에서 에지 런타임 장치를 조정하고 관리합니다.단계별 대화식 형식을 통해 실제 사용 사례를 해결하면서 프로세싱, 관리 및 AI 마이크로 서비스 기능을 사용하여 클라우드 기능을 Edge 장치로 확장하는 솔루션을 구축하는 방법을 배우십시오.참여하려면 노트북을 가져와야합니다.

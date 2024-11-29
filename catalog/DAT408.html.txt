@@ -1,0 +1,1 @@
+이 워크숍에서는 Amazon OpenSearch Service와 Amazon DynamoDB Zero-ETL 통합을 설정하여 DynamODB 기반 애플리케이션에 생성 AI 경험을 추가하는 방법을 배우십시오.DynamODB 테이블에서 OpenSearch Service까지 파이프 라인을 만들고 OpenSearch Service에서 Amazon Bedrock ML 커넥터를 작성하고 OpenSearch Service를 벡터 저장소로 사용하여 Amazon Bedrock을 쿼리하십시오.컨텍스트 인식 추론 응용 프로그램을 지원하기 위해 DynamoDB에 저장된 차별화 된 데이터를 사용하려면 모범 사례를 찾으십시오.참여하려면 노트북을 가져와야합니다.

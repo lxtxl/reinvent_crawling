@@ -1,0 +1,1 @@
+AWS Waths Intelligence 기능을 탐색하고 AWS WAF, AWS Network Firewall 및 Amazon Route 53 Resolver DNS 방화벽과 같은 보안 서비스에서 관리 방화벽 규칙 및 보안 결과가 어떻게 전력을 공급하는지 알아보십시오.AWS가 AWS 인프라를 보호하고 새로운 보안 기능을 구축하며 고객이 AWS에서 애플리케이션 보호를 향상시킬 수있는 위협 인텔리전스에 대해 알아보십시오.

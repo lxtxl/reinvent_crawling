@@ -1,0 +1,1 @@
+똑똑한 Cymatics 플레이트를 만들려고 시도하십시오.연구에 따르면 소리와 진동은 이완, 균형 및 치유를 촉진하는 매혹적인 패턴을 만드는 데 사용될 때 치료 적 치유 잠재력을 가지고 있습니다.전 세계 음악가들은 창조물에 원칙을 사용하여 Cymatics에서 영감을 얻었습니다.이 프로젝트는 Amazon API Gateway, AWS IoT 및 Amazon Bedrock과 같은 서비스 및 솔루션으로 Cymatics의 힘을 활용하여 Body and Mind Harmony를 복원하는 예술로서 소리를 낼 수 있도록 도와줍니다.

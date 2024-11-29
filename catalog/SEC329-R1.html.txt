@@ -1,0 +1,1 @@
+여러 소스에서 많은 양의 보안 데이터를 관리하고 분석하는 보안 전문가는 잠재적 위협을 효과적으로 감지하고 대응해야합니다.AWS Security Lake를 활성화하여 AWS 조직에서 로그를 수집하고 OCSF (Open Cybersecurity Schema Framework)에 사용자 정의 데이터 소스를 매핑하여 보안 로그를 규모로 수집하는 방법을 살펴보십시오.Amazon OpenSearch Service, Amazon Quicksight, Amazon Athena 및 AWS 파트너 도구와 같은 AWS 분석 도구를 활용하여 로그를 분석하고 중요한 보안 통찰력을 생성하는 방법을 알아보십시오.

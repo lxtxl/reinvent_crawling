@@ -1,0 +1,1 @@
+이 번개 대화에서 Amazon Q 행동으로 강화 된 Salesforce Agentforce에 AI 에이전트를 구축하여 작업을 수행하는 방법을 배우십시오.이 프레젠테이션은 AWS 파트너 인 Salesforce가 제공합니다.

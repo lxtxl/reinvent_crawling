@@ -1,0 +1,1 @@
+Amazon Sagemaker Hyperpod는 모든 규모 및 산업의 고객을위한 FM 교육을 규모로 가속화합니다.이 Chalk Talk에서 우리는 Amazon Sagemaker Hyperpod의 분산 교육 기능을 활용하여 교육 시간을 최대 40%줄입니다.또한 Amazon Sagemaker Hyperpod의 탄력성 교육 환경이 결함을 자동으로 감지, 진단 및 복구하는 데 도움이되는 방법을 알아보십시오.

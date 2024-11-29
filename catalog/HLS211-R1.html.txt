@@ -1,0 +1,1 @@
+이 세션에서는 AWS Healthomics를 사용하여 원활한 약물 발견 워크 플로를 만드는 여러 최첨단 (SOTA) Biological Foundation Models (FMS)를 함께 조정하는 방법을 배우십시오.여러 FM을 결합하는 방법을 살펴보고 정식 약물 발견 경로를 자동화하는 실습 경험을 얻으십시오.

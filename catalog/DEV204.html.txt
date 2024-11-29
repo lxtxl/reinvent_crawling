@@ -1,0 +1,1 @@
+Claude 3 Haiku와 함께 Amazon Bedrock을 어떻게 활용하여 섬유 산업에서 이미지 검색을 단순화하는 방법을 알아보십시오.이 세션에서는 AI 중심 속성 인식을 사용하여 섬유 패턴을 검색하기위한 확장 가능하고 안전하며 비용 효율적인 솔루션의 구현에 대해 설명합니다.AWS Lambda, Amazon Aurora Serverless, AWS Step Functions, Amazon API Gateway 및 Amazon Bedrock의 사용을 살펴보고 수천 개의 이미지를 처리하고 인덱싱합니다.보안을 유지하고 비용을 최적화하면서 산업별 문제를 해결하기 위해 최첨단 AI 및 서버리스 기술을 적용하는 것에 대한 통찰력을 얻습니다.

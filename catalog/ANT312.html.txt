@@ -1,0 +1,1 @@
+이 워크샵에서 Amazon OpenSearch Service 및 Generative AI를 사용하여 지능형 멀티 모달 문서 검색 응용 프로그램을 구축하십시오.Amazon OpenSearch Service에서 Amazon Bedrock 및 LLM을 사용하여 머신 러닝 전문 지식없이 조직에 대한 전체적인 검색 경험을 만드는 방법을 알아보십시오.참여하려면 노트북을 가져와야합니다.

@@ -1,0 +1,7 @@
+Amazon EKS에서 Karpenter와의 실습 경험을 얻으십시오.
+Karpenter는 스케줄링 제약 조건을 고려하면서 워크로드에 대한 Amazon EC2 인스턴스를 프로비저닝하여 인프라 관리를 단순화하는 응용 프로그램 중심 노드 
+프로비저너입니다.워크로드가 발전함에 따라 Karpenter의 통합 기능은 가장 적고 비용 효율적인 인스턴스로 컴퓨팅을 지속적으로 최적화하는 데 도움이됩니다.
+이 워크숍에서는 Karpenter와 함께 Amazon EKS를 설정하는 방법을 배우고 응용 프로그램 요구 사항을 기반으로 Karpenter 스케일, Karpenter Consolidation을
+ 사용하여 워크로드의 지속적인 최적화를 설정하고 Karpenter, Karpenter, AWS Spare Concertion (Amazon EC2 Spot Instances)을 사용하여 작업량의 
+ 지속적인 최적화를 설정하는 방법을 이해하십시오.
+ 다른 모범 사례를 배우십시오.참여하려면 노트북을 가져와야합니다.

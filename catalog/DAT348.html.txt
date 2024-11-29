@@ -1,0 +1,1 @@
+Amazon DynamoDB는 서버리스, NOSQL, 완전 관리되는 데이터베이스입니다.DynamoDB는 다른 여러 AWS 서비스와 쉽게 통합 할 수 있습니다.이 세션에서는 Amazon DynamoDB와 Amazon OpenSearch Service 및 Amazon Redshift와 같은 기타 AWS 서비스 간의 제로 ETL 통합을 자세히 살펴보십시오.이러한 통합이 운영 부담과 비용을 줄일 수있는 방법을 배우고 분석을 위해 데이터를 준비하는 대신 데이터에서 가치를 창출하는 데 집중할 수 있습니다.

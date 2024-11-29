@@ -1,0 +1,1 @@
+클라우드 네이티브, 이벤트 중심 아키텍처로 MFT (Modernizate Managed File Transfer)가 간단한 B2B 파일 교환에서 지능형 데이터 파이프 라인으로 변환 할 수있는 방법을 알아보십시오.AWS 전송 패밀리 SFTP 엔드 포인트 및 커넥터를 Amazon EventBridge 및 Serverless Architectures와 결합하면 B2B 데이터를 ETL 파이프 라인에 통합하거나 생성 AI를위한 데이터 소스를 포함시키기 위해 데이터를 준비 할 수 있습니다.

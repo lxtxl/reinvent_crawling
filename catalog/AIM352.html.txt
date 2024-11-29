@@ -1,0 +1,1 @@
+이 Chalk Talk에서 AWS App Studio가 새로운 앱 기능을 잠금 해제하기 위해 JavaScript 표현 및 기본 AWS Lambda 통합을 구현 한 방법을 자세히 살펴보십시오.App Studio에 새로 보이든 경험이든, 실용적인 기술을 잠금 해제하여 코드를 통해 앱의 잠재력을 확장하십시오.사용자 정의를 통해 차별화되고 유쾌한 사용자 경험을 구축하는 기술을 배우십시오.App Studio Architecture와 App Studio Development에 힘을 실어주기위한 모범 사례에 대한 깊은 다이빙을 놓치지 마십시오.

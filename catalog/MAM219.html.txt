@@ -1,0 +1,1 @@
+Amazon MGM Studios가 AWS 서비스를 통해 SAP Financial Clos Process를 간소화하고 자동화하는 방법을 알아보십시오.SAP ABAP 용 AWS SDK를 사용하여 Amazon MGM Studios는 AWS 서비스와 SAP ABAP 코드를 사용하여 시간이 많이 걸리는 데이터 조작 및 변환 프로세스를 자동화합니다.Amazon Quicksight의 비즈니스 인텔리전스와 함께 회사는 검증, 점검 및 감사보고 활동에 대한 접근 방식을 전환했습니다.이제는보고 정확도를 향상시키고 생산성을 높이고 매월 및 분기에 더 빠르게 재정적으로“랩”을 부르고 있습니다.200 개 이상의 AWS 서비스로 자신의 SAP 프로세스를 변환 할 수있는 방법을 살펴보십시오.

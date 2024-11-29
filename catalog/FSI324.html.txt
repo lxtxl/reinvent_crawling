@@ -1,0 +1,1 @@
+NILL (New York Life)은 중요한 보험 운영을위한 분석, 성능 및 자동화를 향상시키기 위해 온 프레미스 데이터 플랫폼을 현대화했습니다.이러한 목표를 달성하기 위해 Nyl은 AWS Lambda, AWS Glue, Amazon RDS 및 Amazon Redshift를 사용하여 AWS에 확장 가능한 데이터 호수 및보고 플랫폼을 구축했습니다.이 세션에서 Nyl은 레거시 플랫폼에서 현대 데이터 호수로 이동하여 현대 데이터 재단이 생성 AI 여정을 가속화하는 방법을 공유합니다.Nyl이 Amazon Sagemaker와 Amazon Bedrock을 사용하여 직원 생산성과 최전선 에이전트 경험을 향상시키는 방법을 알아보십시오.

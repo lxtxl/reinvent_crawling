@@ -1,0 +1,1 @@
+은행을 깨지 않고 생성 AI의 힘을 활용하려고합니까?Amazon Q Business, Amazon Bedrock, Amazon Sagemaker 및 자체 주최 EC2 인스턴스를 포함한 AWS 생성 AI 서비스의 모니터링 및 최적화 기술을 마스터하기 위해 세션에 참여하십시오.Generative AI의 신규 이민자이든 이미 최첨단 솔루션을 배포하든이 세션에서는 AI 워크로드가 효율적으로 실행되도록 필수 통찰력을 제공합니다.

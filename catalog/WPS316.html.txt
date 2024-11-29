@@ -1,0 +1,1 @@
+인공 지능, 특히 생성 AI는 대행사, 통합 자 및 파트너를 위치시켜 임무의 영향을 향상시킵니다.이 Chalk Talk는 Meta 및 Anthropic의 모델을 사용하여 Amazon Bedrock Guardrails를 배치하는 모범 사례와 AWS Govcloud (미국)의 타사 모델과 함께 Amazon Sagemaker Studio를 배치하기위한 모범 사례를 설명합니다.이 강의는 또한 인공 지능의 안전하고 안전하며 신뢰할 수있는 신뢰할 수있는 개발 및 사용에 대한 백악관 행정 명령과 일치하면서 실험, 테스트 및 배포를 통한 책임있는 혁신을 다룹니다.AWS GovCloud (미국) AI 기능과 책임감있게 엔터프라이즈 환경에 배포하는 방법을 배우십시오.

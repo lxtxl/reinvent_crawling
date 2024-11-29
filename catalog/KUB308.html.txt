@@ -1,0 +1,4 @@
+CNOE (Cloud Native Operational Excellence) 이니셔티브로 구동되는이 내부 개발자 플랫폼 (IDP) 패스트 트랙 워크숍에서 Enterprise DevOps 전략을 
+Rev Up.CNOE 스택을 사용하여 IDP의 배포를 가속화하고 탄력성 CI/CD 파이프 라인을 구축하며 황금 경로를 통해 증가 된 관찰 가능성을 달성합니다.
+처음부터 시작하든 확장을하든, 기업 Devops를 빠른 속도로 전진시키기위한 실용적인 통찰력과 실습 경험을 위해 우리와 함께하십시오.
+참여하려면 노트북을 가져와야합니다.

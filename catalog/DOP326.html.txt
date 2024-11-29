@@ -1,0 +1,1 @@
+이 실습 워크숍에서는 Terraform을 사용하여 AWS 배포를 가속화하기 위해 전문 지식을 얻습니다.모듈 식 인프라에 대한 모범 사례를 코드 (IAC)로 사용하여 TerraForm 코드를 재사용 가능한 모듈로 구성하는 법을 배웁니다.또한 Amazon Q Developer와 같은 AWS 서비스를 통해 생성 AI의 전력을 활용하여 TerraForm 코드를 더 빨리 생성하는 방법을 살펴보십시오.단계별 지침을 통해 Terraform 및 AI-Asisted Code Generation을 사용하여 AWS 서비스를 배포하는 실제 경험을 얻습니다.이 몰입 형 학습 경험을 놓치지 마십시오.참여하려면 노트북을 가져와야합니다.

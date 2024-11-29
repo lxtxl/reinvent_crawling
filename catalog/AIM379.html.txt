@@ -1,0 +1,1 @@
+Amazon SageMaker모니터링 및 평가.이 세션에서는 Sagemaker가 Amazon의 데이터 과학자와 ML 엔지니어가 자체 생성 AI 혁신을 제공하는 새로운 기초 모델을 구축하는 방법을 배우십시오.

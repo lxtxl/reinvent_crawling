@@ -1,0 +1,1 @@
+이 세션에서는 컨테이너 보안 및 규모 규모를 자동화하는 방법을 배우십시오.기본 이미지로 시작하여 신뢰할 수있는 소스에서 가져 오기를하고 보안 적용을 빌드 프로세스에 자동화하여 컨테이너 준수를 보장하는 방법을 배우십시오.Amazon Q Developer, Amazon Inspector 및 EC2 Image Builder가 서로를 보완하여 보안 컨테이너 이미지 생성 및 Amazon Elastic Container Registry (Amazon ECR)의 최종 저장을 자동화하는 방법을 살펴보십시오.건축업자를 지원하는 방법을 알고 보안을 타협하지 않고 빠르게 발전 할 수 있습니다.

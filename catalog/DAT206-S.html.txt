@@ -1,0 +1,1 @@
+이 번개 대화에서 Moderna가 어떻게 다양한 데이터 시스템을 연결하여 DBT 메시로 데이터의 단일보기를 만드는 방법을 알아보십시오.Moderna의 팀에서 Amazon Redshift에서 Amazon Athena로 다시 돌아가고 다시 돌아갈 수있는 방법을 배우십시오.이 프레젠테이션은 AWS 파트너 인 DBT Labs가 제공합니다.

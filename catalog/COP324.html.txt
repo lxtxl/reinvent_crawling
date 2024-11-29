@@ -1,0 +1,8 @@
+관찰 가능성을 위해 오픈 소스 툴링 사용에 관심이 있으십니까?효과적인 관찰 가능성을 설정합니다
+오픈 소스 도구를 사용한 솔루션은 빠른 속도로 인해 어려울 수 있습니다.AWS 제안
+AWS 관리 버전의 오픈 소스 도구로 관찰 가능성을 구현할 수있는 유연성
+Prometheus, Grafana 및 OpenTelemetry.이 세션은 관리되는 오픈 소스 서비스가 어떻게
+계측, 수집 및 분석에 대한 표준화 된 접근.권장 아키텍처를 발견하십시오
+OpenTelemetry가있는 계측, 섭취를 포함하여 각 관측 성 단계에 대한 패턴
+Prometheus 및 Amazon OpenSearch Service를위한 Amazon Managed Service 및 Amazon Managed의 통찰력
+Grafana.

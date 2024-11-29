@@ -1,0 +1,1 @@
+EDA (Event-Driven Architecture)의 힘을 잠금 해제하여 Strangler 및 Leave/Layer 패턴으로 기존 응용 프로그램을 현대화하십시오.이 세션에서는 Amazon Eventbridge, AWS Lambda 및 MicroServices를 활용하여 기술 부채를 줄이면서 민첩성, 탄력성 및 보안을 높이는 방법을 배우십시오.모 놀리 식 애플리케이션을 마이크로 서비스로 원활하게 분해하여 더 빠른 혁신, 확장 성 및 유지 가능성을 가능하게하는 방법을 알아보십시오.

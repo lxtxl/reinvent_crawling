@@ -1,0 +1,1 @@
+이 세션에서는 BPX Energy의 AWS 생산 운영 전환에 대해 알아보십시오.BPX는 SAP 및 Esri ArcGIS를 포함하여 AWS에서 멀티 클라우드에서 단순화하고 올인을위한 여정을 공유합니다.BPX가 Amazon Bedrock을 사용하여 생성 AI를 활용하여 석유 및 가스 생산 작업을 변환하는 방법을 알아보십시오.

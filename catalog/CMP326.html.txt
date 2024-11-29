@@ -1,0 +1,1 @@
+바이오 제약 연구자들은 생성 생물학 및 화학을 위해 Alphafold2, ProtGPT2 및 ESM-2와 같은 모델을 구축하고 배포하려고합니다.이 Chalk Talk에서 우리는 NVIDIA GPU 기반 Amazon EC2 인스턴스, AWS ParemalCluster 및 Amazon Sagemaker에 NVIDIA BIONEMO를 배치하는 방법을 다룹니다.또한 AWS Trainium 및 AWS 추론 칩에 이러한 모델을 배포하여 비용을 최대 50%까지 낮추는 데 도움이됩니다.

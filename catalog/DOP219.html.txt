@@ -1,0 +1,1 @@
+Amazon Q Developer를 사용자 정의하여 내부 라이브러리, API, 모범 사례 및 건축 패턴을 알 수 있도록 Amazon Q Developer를 사용자 정의하여보다 관련성이 높은 인라인 코드 권장 사항 및 채팅 응답 (미리보기)을 생성하여 개발을 가속화합니다.이 Lightning Talk에서 NAB (National Australia Bank)가 Amazon Q Developer를 사용하여 개발 팀이 더 빠르게 배송하고 사용자 정의를 사용하여 고객을 위해 더 많은 혁신을 돕는 방법을 배웁니다.

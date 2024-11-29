@@ -1,0 +1,1 @@
+이 워크숍에서는 GraphQL API를 쉽게 개발할 수있는 완전히 관리되는 서비스 인 AWS AppSync의 기능을 발견하십시오.AWS AppSync가 Amazon DynamoDB, Amazon Bedrock, AWS Lambda 등과 같은 데이터 소스에 안전하게 연결하는 방법을 어떻게 처리하는지 알아보십시오.참여하려면 노트북을 가져와야합니다.

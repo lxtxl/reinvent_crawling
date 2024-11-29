@@ -1,0 +1,1 @@
+이 Lightning Talk에서 Amazon Bedrock 에이전트를 활용하여 블록 체인 데이터로부터 통찰력을 얻고 자연어를 사용하여 스마트 계약과 상호 작용하는 방법을 배웁니다.이더 리움 및 비트 코인 데이터 용 AWS Public Blockchain 데이터 세트에서 블록 체인 데이터를 쿼리하기 위해 자연어 인터페이스를 구축하는 방법에 대한 지식을 얻게됩니다.또한 Amazon Managed Blockchain Query API를 호출 할 수있는 에이전트를 만들고 블록 체인에 쓰는 방법에 대한 이해를 얻게됩니다.

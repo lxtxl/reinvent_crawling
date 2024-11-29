@@ -1,0 +1,1 @@
+Amazon Eventbridge 파이프와 이벤트 중심 통합을 간소화하십시오.AWS 고객이 EventBridge 파이프를 활용하여 Amazon Kinesis 및 Amazon Sqs와 같은 서비스를 통합하는 방법에 대한 라이브 데모를 위해이 세션에 가입하십시오.EventBridge 파이프가 인라인 강화, 변환 및 필터링을 가능하게하여 사용자 정의 통합 코드의 필요성을 줄이는 방법을 알아보십시오.EventBridge 파이프를 사용하여 이벤트 중심 응용 프로그램을보다 효율적으로 구축하기위한 아이디어가 있습니다.

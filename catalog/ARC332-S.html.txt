@@ -1,0 +1,1 @@
+오픈 소스 테이블 형식의 출현으로 Open Data Lakehouse Architecture는 데이터웨어 하우스의 성능 및 원자 거래를 데이터 호수로 가져옵니다.이 세션에 참여하여 Apache Iceberg와 Apache Polaris (인큐베이션)가 다중 엔진 상호 운용성 및 거버넌스로 개방형 데이터 전략을 향상시키는 방법을 확인하십시오.또한 대기업이 APACHE Iceberg를 사용하여 AWS 및 Snowflake와 비용 효율적인 상호 운용성을 가능하게하는 방법을 확인하십시오.이 프레젠테이션은 AWS 파트너 인 Snowflake가 제공합니다.

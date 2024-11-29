@@ -1,0 +1,1 @@
+Amazon DocumentDB (MongoDB 호환성 포함)는 완전히 관리되는 기본 JSON 문서 데이터베이스로 인프라를 관리하지 않고 거의 모든 규모로 중요한 문서 워크로드를 쉽고 비용 효율적으로 작동시킵니다.이 세션에서는 Global Cluster Failover, Global Cluster 전환, 압축 및 최신 쿼리 API를 포함하여 Amazon DocumentDB가 제공하는 가장 흥미로운 새로운 기능을 자세히 살펴보십시오.조직에서 이러한 기능을 구현하면 탄력성, 성능 및 응용 프로그램의 효과를 향상시킬 수 있습니다.

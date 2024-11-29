@@ -1,0 +1,1 @@
+Amazon S3 용 Mountpoint 및 Amazon S3 Container Storage Interface (CSI) 드라이버의 Mountpoint와 같은 혁신적인 오픈 소스 도구를 사용하여 처리량 성능을 최적화하고 작업을 더 빨리 마무리하고 비용을 낮추는 방법을 알아보십시오.이 분필 대화에 참여하여 AWS 고객이 취한 여정과 그들이 달성 한 이점에 대한 통찰력을 얻으십시오.

@@ -1,0 +1,1 @@
+클라우드 보안 팀은 종종 위험을 유지하는 데 필요한 작업의 복잡성과 속도에 휩싸입니다.이 Lightning Talk에서 Orca Security의 CTO 필드 CTO 인 Neil Carpenter와 함께 Orca의 고객이 Amazon Bedrock과 같은 생성 된 AI 서비스로 구동되는 기능으로 실제 비즈니스 성과를 유도하는 실행 가능한 인텔리전스를 얻는 기능으로 조수를 돌리는 방법을 확인하십시오.이 프레젠테이션은 AWS 파트너 인 Orca Security가 제공합니다.

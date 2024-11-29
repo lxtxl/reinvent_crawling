@@ -1,0 +1,1 @@
+SharePoint 및 파일 서버와 같은 Microsoft 워크로드는 Amazon Q 비즈니스의 풍부한 데이터 세트입니다.이 세션에서는 Amazon Q 비즈니스가 생성 AI 전원을 발휘하고 동시에 데이터 가드 레일을 구현하여 이러한 데이터 세트에서 최대 값을 추출하는 방법을 배우십시오.Amazon Q Business가 SharePoint 및 Amazon FSX와 어떻게 통합되는지, 데이터를 색인화하고 Active Directory Identities를 기반으로 데이터 가드 레일을 시행하는 방법을 확인하십시오.

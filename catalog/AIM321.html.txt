@@ -1,0 +1,1 @@
+Amazon Titan Image Generator는 최첨단 텍스트-이미지 생성기 기초 모델로 멋진 고품질 이미지를 생성합니다.Amazon Titan 이미지 생성기를 사용하면 생성 된 이미지를 간단한 자연어 프롬프트로 편집 할 수 있습니다.이 건축업자 세션에서 Amazon Bedrock의 Amazon Titan Image Generator 모델로 뛰어 들어 책임있는 AI를 가능하게하는 방법을 알아보십시오.Amazon Titan Image Generator를 사용하여 다양한 이미지 생성 시나리오를 탐색하고 Amazon Bedrock Guardrails를 사용하여 책임있는 AI 원칙을 구현하는 과정을 살펴보십시오.참여하려면 노트북을 가져와야합니다.

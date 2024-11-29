@@ -1,0 +1,1 @@
+이 초크 토크는 AWS 백업 혜택, 기능, 사용 사례 및 설정에 깊이 빠져 있습니다.AWS 조직, Amazon SNS, Amazon CloudWatch, AWS CloudFormation 및 AWS KMS와 같은 다른 서비스와 AWS 백업을 통합하는 방법을 살펴보십시오.백업 계획, 백업 보상, 보호 자원, 백업 작업, 모니터링 및 정책에 대한 정보를 포함하여 AWS 백업 구조에 대해 알아보십시오.

@@ -1,0 +1,1 @@
+이 워크숍에서는 최소한의 노력으로 전통적인 Java Spring 애플리케이션을 AWS Lambda에 가져 오는 방법을 배우고 반복적으로 최적화를 적용하여 서버리스 Java 경험을 최대한 활용하십시오.AWS Lambda Snapstart 및 Graalvm Native 이미지로 응용 프로그램의 성능을 향상시키는 방법을 알아보십시오.그런 다음 Spring Cloud 기능으로 새로운 응용 프로그램을 작성하는 방법을 배우고 Amazon Q Developer를 사용하여 코드를 신속하게 생성하십시오.AWS Lambda를 사용하여 Enterprise Java 애플리케이션을 현대화 할 때 정보가 잘 알려진 결정을 내리는 방법을 알고이 워크숍을 떠나십시오.참여하려면 노트북을 가져와야합니다.

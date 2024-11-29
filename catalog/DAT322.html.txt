@@ -1,0 +1,1 @@
+이 Chalk Talk에서 Amazon RDS 및 Amazon RDS Custom for SQL Server 용 다단계 재해 복구 솔루션을 설계하는 방법을 배우십시오.SQL Server 용 Amazon RDS 및 RDS 사용자 정의에서 재해 복구를 가능하게하는 기능을 자세히 살펴보고 피할 모범 사례 및 함정을 발견하십시오.현장의 AWS 전문가들은 경험을 공유 하고이 주제에 대한 질문에 답변합니다.

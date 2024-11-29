@@ -1,0 +1,1 @@
+GitHub 동작과 AWS CodeBuild를 결합하여 개발 효율을 극대화 할 수있는 방법을 알아보십시오.이 Chalk Talk에서 CodeBuild에서 호스팅 된 Github 액션으로 Amazon EC2 또는 Amazon EC에서 호스팅 된 GitHub Action Runners 사용의 상충 관계에 대해 알아보십시오.워크 플로 자동화를 향상시키기 위해 다른 AWS 서비스와의 통합을 탐색하십시오.이 대화에 참여하여 AWS에 대한 GitHub 조치가 개발 프로세스를 다음 단계로 끌어 올릴 수있는 방법을 알아보십시오.

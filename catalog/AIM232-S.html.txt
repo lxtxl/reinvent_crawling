@@ -1,0 +1,7 @@
+Gen AI는 기술적 복잡성, 비용 및 AI 인재 부족으로 인해 입양 장애물에 직면 해 있습니다.열린
+Linux Foundation AI & Data에서 출시 한 Enterprise AI (OPEA) 플랫폼은 다음을 해결합니다.
+Gen AI 통합을 단순화하여 문제.OPEA는 독점 데이터를 오픈 소스 모델과 결합합니다
+맞춤형 솔루션을 특징으로하는 도구.인텔과 OPEA 생태계 파트너는 검색 증강을 사용합니다
+AI를 민주화하기위한 생성 (RAG) 파이프 라인.OPEA를 신속하게 설정하고 최적화 된 걸레를 실행하는 법을 배우십시오.
+Amazon EC2 또는 Amazon EKS 및 Amazon RDS 또는 Xeon의 OpenSearch의 파이프 라인.우리와 함께하십시오
+AI의 미래.이 프레젠테이션은 AWS 파트너 인 인텔이 제공합니다.

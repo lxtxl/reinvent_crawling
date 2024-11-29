@@ -1,0 +1,1 @@
+생성 AI에 의해 구동되는이 새로운 대화식 교육 세션에서 시뮬레이션 된 비즈니스 시나리오를 해결하고 지식 기반을 활용하여 고객에게 상세하고 상황에 맞는 정보를 제공하는 AI 챗봇을 구축합니다.Amazon Bedrock 및 Amazon Kendra와 같은 AWS 서비스를 활용하여 데이터를 색인하고 RAG (Respreval Augmented Generation)를 활성화합니다.효율적인 애플리케이션 코드 실행을 위해 Amazon Serverless 서비스를 통합하십시오.이 세션에는 노트북이 필요합니다.

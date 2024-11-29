@@ -1,0 +1,1 @@
+금속 구체는 매혹적인 모래 패턴을 차지하고 마음의 순간을 만듭니다.AWS IoT Greengrass가 관리하는 Raspberry Pi 앱과 기술 및 AI의 통합을 발견하십시오.Gen AI Frontend는 사용자 입력을 기반으로 비주얼에 Amazon Bedrock을 사용하고 실시간 패턴을 캡처합니다.이 경험은 Amazon의 마음 챙김 초점과 엔드 투 엔드 보안을 강조하고 안전한 클라우드 기반 Gen AI 앱 빌딩을 보여줍니다.

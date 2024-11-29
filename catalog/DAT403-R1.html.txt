@@ -1,0 +1,1 @@
+이 워크숍에서는 목적으로 만들어진 데이터베이스를 사용하여 현대적인 웹 응용 프로그램을 규모로 구축하는 방법을 배우십시오.Amazon Aurora, Amazon Dynamodb, Amazon Elasticache, Amazon Neptune 및 Amazon OpenSearch Service를 사용하여 개발 패턴을 적용하는 방법을 발견하여 완벽하고 확장 가능한 서점 전자 상거래 응용 프로그램을 구축하고 그 과정에서 모범 사례에 깊이 빠져들게하십시오.AWS Identity and Access Management (IAM), Amazon VPC, 네트워킹 및 스토리지 서비스와 같은 AWS 개념 및 서비스에 대한 기본 친숙 함이 권장됩니다.참여하려면 노트북을 가져와야합니다.

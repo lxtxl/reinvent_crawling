@@ -1,0 +1,1 @@
+AWS의 대부분의 워크로드는 모든 레이어에서 즐거움을주는 세밀하게 제작 된 케이크와 비슷합니다.이 세션에서는 AWS Resilience Hub, AWS Fault Injection Service (FIS), Amazon Route53 Arc, Amazon Elastic Disaster Recovery (DRS), AWS 백업 및 AWS 백업 및 AWS 백업 및 AWS 백업 및 AWS 백업 및 응용 프로그램에 대한 각 맛의 각 계층에서의 마스터 탄력성더.즉시 사용 가능한 참조 아키텍처와 규범 적 지침 으로이 계층 전체에서 탄력성이 어떻게 작동하는지에 대한 정신 모델을 남겨 두십시오.이 세션은 많은 데모와 함께 일을 재미 있고 활기차게 유지합니다!

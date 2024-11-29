@@ -1,0 +1,1 @@
+SAP 및 AWS는 AWS Migration Hub의 모든 AWS 고객이 액세스 할 수있는 Rise Journey Maps의 출판을 발표했으며 AWS에 대한 평가, 마이그레이션, 현대화 및 유지 보수를 용이하게하는 서비스를 입증 한 ISV를 강조했습니다.이 Chalk Talk에서 온-프레미스, 레거시 SAP 고객을위한 마이그레이션 시나리오에 깊이 빠져들고 SAP의 공동 공동으로 출판 된 지침과 함께 비즈니스 프로세스 변환 내에서 Amazon Bedrock, Anthropic Claude 및 Amazon Titan FMS를 활용할 수있는 방법을 알아보십시오.참조 아키텍처 (JRA).이 분필 대화는 AWS 파트너를위한 것입니다.

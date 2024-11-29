@@ -1,0 +1,1 @@
+이 세션에서는 고객이 규제 된 착륙 영역을 구축하고 AWS 구성, AWS Security Hub 및 Landing Zone Accelerator와 같은 AWS 서비스를 사용하여 Life Science Workloads in-Scale을 마이그레이션하는 동시에 데이터 무결성을 보장하고 현대적인 접근 방식을 사용하는 방법을 배웁니다.GXP와 같은 규제 제어.

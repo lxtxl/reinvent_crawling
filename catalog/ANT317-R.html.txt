@@ -1,0 +1,1 @@
+Amazon OpenSearch Service로 마이그레이션하려면 계획, POC, 배포, 데이터 마이그레이션 및 컷오버의 5 가지 주요 단계가 포함됩니다.이 Chalk Talk에서 OpenSearch Service에 성공적인 마이그레이션 전략을 구축하는 방법을 배우십시오.컷 오버 단계까지 프리미 이민 재고를 시작으로 각 마이그레이션 단계에서 주요 이정표에 대한 기술 지침을 들어보십시오.이 강연은 또한 Amazon OpenSearch 섭취를 사용하여 OpenSearch Service로 마이그레이션 여정을 가속화하는 방법을 알려줍니다.

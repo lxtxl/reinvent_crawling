@@ -1,0 +1,1 @@
+AWS, Amazon Ads 및 Anthropic이 공동으로 제공 한이 세션은 Anthropic의 Claude AI를 AWS 및 Amazon 광고에 생성 AI 보조원에 통합하는 실제 영향을 탐색합니다.Amazon Q In Connect와 같은 강력한 응용 프로그램 및 사례 연구에 중점을 두어이 협업이 고객이 더 빠르고 효과적으로 움직이는 방법을 살펴보십시오.AI 기반 고객 상호 작용의 미래를 엿보고 Amazon이 차세대 디지털 경험을 어떻게 형성하고 있는지 알아보십시오.이 프레젠테이션은 AWS 파트너 인 Anthropic이 제공합니다.

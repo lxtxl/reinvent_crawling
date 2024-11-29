@@ -1,0 +1,1 @@
+SLA (Service Level 계약)를 충족시키지 못하는 ETL (Extract, Transform 및 Load) 프로세스로 어려움을 겪고 있습니까?이 세션은 Amazon Athena에서 Apache Spark를 사용하여 26 시간에서 30 분까지 장기 실행 ETL 작업을 최적화하는 개인적인 경험을 기반으로합니다.참가자들은 실제 예제와 실제 시연을 통해 ETL 성능을 최적화하기위한 효과적인 전략을 배웁니다.이 세션은 또한 AWS SDK 용 Python (BOTO3)을 사용하여 생산 준비가 가능한 Apache Spark 작업을 보장하기위한 사용, 설계 패턴 및 모범 사례에 도달합니다.

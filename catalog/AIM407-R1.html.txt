@@ -1,0 +1,1 @@
+Amazon Bedrock은 데이터를 안전하고 안전하게 유지하도록 설계되었으며 지원되는 모델을 훈련시키는 데 사용되지 않습니다.추론 경로는 이해하기가 간단하지만 다른 비 관점 목적으로 데이터를 사용하는 Amazon Bedrock의 복잡한 기능 중 일부가 많이 있습니다.여기에는 Amazon Bedrock Guardrails, Agent 및 Knowledge Base와 함께 맞춤형 모델 제작이 포함됩니다.이 Chalk Talk에서 Amazon Bedrock의 보안 기능에 대한 자세한 내용을 배우면서 이러한 기능 내에서 아키텍처를 탐색하고 데이터 흐름을 확보하고 이러한 기능 내에서 데이터를 완료하십시오.

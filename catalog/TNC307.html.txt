@@ -1,0 +1,1 @@
+이 실험실에서는 Amazon Bedrock과 함께 Python (BOTO3) 용 AWS SDK를 사용하여 재사용 가능한 매개 변수화 된 질문 응답 기능을 만듭니다.텍스트 및 이미지 생성 기능을 구축하여 신속한 엔지니어링을 활용하여 기초 모델을 호출하십시오.Amazon Bedrock API를 통합하고 이미지를 Amazon S3에 저장 한 다음 Amazon Bedrock 구동 서비스 라이브러리를 개발하기 위해 Amazon Rekognition을 사용하십시오.워크 스테이션이 제공됩니다.노트북이 필요하지 않습니다.

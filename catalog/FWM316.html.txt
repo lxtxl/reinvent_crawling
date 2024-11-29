@@ -1,0 +1,1 @@
+AWS Amplify는 최근 AWS에서 생산 준비 앱을 구축하기위한 풀 스택 타입 스크립트 기능을 갖춘 Gen 2 개발자 경험을 출시했습니다.Gen 2는 AWS Cloud Development Kit (AWS CDK) 위에 구축되어 생성 AI 사용 사례를위한 Amazon Bedrock을 포함하여 Amplify 앱에 200 개 이상의 AWS 서비스를 추가 할 수 있습니다.이 Chalk Talk에 가입하여 다양한 GIT 전략, 모노 포고 및 멀티 렙토스 및 여러 AWS 계정으로 전체 스타킹 타임 스크립트 기능을 확장하기위한 전략에 대해 논의하십시오.

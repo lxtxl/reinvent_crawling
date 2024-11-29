@@ -1,0 +1,1 @@
+2022 년 10 월 Open Web Application Security Project (OWASP)는 소프트웨어 빌드 및 배포 인프라에 영향을 미치는 특정 영역을 강조하는 CI/CD 위험에 대한 상위 10 개 목록을 발표했습니다.이 세션에서는 AWSS 서비스를 OWASP 식별 위험을 완화하기 위해 어떻게 구성 할 수 있는지에 중점을 둡니다.

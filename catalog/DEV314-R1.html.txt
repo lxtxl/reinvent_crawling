@@ -1,0 +1,1 @@
+전통적인 ETL 프로세스의 복잡성없이 Amazon OpenSearch Service, Amazon Redshift 및 Amazon DynamoDB를 사용하여 실시간 데이터 시각화 파이프 라인을 구축하는 방법을 알아보십시오.Amazon Redshift 및 OpenSearch enestion을 사용하여 데이터를 효율적으로 처리하고 변환하고 AWS CDK를 사용하여 서버리스 아키텍처를 구현하는 방법을 배우십시오.이 Zero-ETL 솔루션이 인프라 관리보다는 데이터에서 통찰력을 도출하는 데 더 빠르고 정보를 얻을 수있는 방법을 탐색하십시오.

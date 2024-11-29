@@ -1,0 +1,1 @@
+이 Chalk Talk는 AWS Nitro 시스템에 대한 개요와 더 작은 금속 크기를위한 멀티 호스트, 충격 영역 감소 및 고급 성능 및 Nitro 시스템이 Flex에 도움을주는 방법을 포함하여 Nitro 시스템에 의해 촉진되는 새로운 Compute Innovations에 대한 개요를 제공합니다.인스턴스.8 세대 AWS Graviton 기반 인스턴스 및 7 세대 인텔/AMD 인스턴스에 깊이 빠져들게하십시오.

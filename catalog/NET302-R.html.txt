@@ -1,0 +1,1 @@
+이 초크 토크는 폭 넓은 AWS 네트워킹 서비스를 다룹니다.Amazon VPC 격자가 아키텍처에 적합한 ELB (Elastic Load Balancing) (ELB)를 최적화 할 수있는 방법, AWS PrivateLink로 마이그레이션하는 방법, AWS Transit에서 마이그레이션 해야하는지 여부에 관계없이 AWS 검증 된 액세스를 구현 해야하는 방법을 알아내는 과제에 직면하고 있습니까?AWS Cloud WAN 또는 다른 네트워킹 주제로가는 게이트웨이?대화식 대화와 화이트 보드를 통해 질문을 세우십시오.

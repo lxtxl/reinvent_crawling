@@ -1,0 +1,1 @@
+AWS에서 생성 AI 워크로드를 실행할 준비가 되셨습니까?AWS Fellentia 및 AWS Trainium과 같은 가속기, NVIDIA 및 AMD의 GPU, AWS Graviton과 같은 프로세서 또는 Amazon Bedrock 및 Amazon Sagemaker와 같은 관리 서비스를 결정하려는 경우이 Chalk Talk를 통해 다루었습니다.AWS에서 사용할 수있는 다양한 옵션을 살펴보고 장단점을 풀고 작업량 및 예산에 가장 적합한 옵션을 선택하는 데 도움을 받으십시오.

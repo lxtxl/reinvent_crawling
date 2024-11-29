@@ -1,0 +1,1 @@
+이 세션에서 Amazon Aurora 및 Amazon RDS 비용 구성 요소를 탐색하고 Compute, Storage, Backup 및 I/O와 같은 다양한 비용 구성 요소에 대한 지출을 줄이는 동시 데이터베이스 워크로드의 성능을 향상시키는 데 도움이되는 중요한 모범 사례를 배우십시오..

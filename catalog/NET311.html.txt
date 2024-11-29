@@ -1,0 +1,1 @@
+조직이 AWS Cloud WAN을 채택하여 안전한 글로벌 네트워크를 구축하는 동시에 AWS Network Firewall과 같은 고급 서비스를 원활하게 통합하는 방법을 알아보십시오.AWS Verified Access, AWS Client VPN 및 AWS Direct Connect를 사용하여 AWS 경계를 넘어 연결을 확장하기위한 모범 사례를 탐색하여 원격 사용자 및 외부 서비스에 대한 안전한 액세스가 가능합니다.이러한 고급 네트워킹 솔루션을 구현하기위한 심층적 인 통찰력과 전략을 확보하십시오.

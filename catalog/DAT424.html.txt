@@ -1,0 +1,1 @@
+이 세션에서 AWS VP 및 Distinguished Engineer 인 Marc Brooker는 Amazon Aurora의 최신 혁신의 기본 사항을 안내합니다.아우로라가 건축 내에서 어떻게 작동 할 수 있는지, 주요 고려 사항과 트레이드 오프를 이해하고, 응용 프로그램 아키텍처가 어떻게 보일지 등을 탐색하는 등을 알아보십시오.

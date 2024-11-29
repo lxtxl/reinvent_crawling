@@ -1,0 +1,6 @@
+Moody 's는 Windows Server 용 Amazon EC2에서 수십 개의 .NET 응용 프로그램을 실행합니다.현대화의 일부로
+전략, Moody 's는 Windows 지원을 통해 Amazon EKS에 중요한 레거시 응용 프로그램을 REPLATFORMED,
+비용 절감, 더 나은 성능 및 개발자의 유연성을 달성합니다.이 세션에서
+Moody 's는 성공적인 replatform의 주요 테이크 아웃 및 모범 사례를 공유합니다.
+도전 과제를 극복하고 플랫폼 엔지니어링 투자를 극대화했습니다.이 세션을 콘크리트로 두십시오
+Amazon EKS에서 자신의 .NET Framework 응용 프로그램을 다시 정보를 제공하는 예와 기술.

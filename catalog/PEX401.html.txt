@@ -1,0 +1,1 @@
+가장 혁신적인 AWS 고객 중 일부는 Amazon EKS를 사용하여 최첨단 생성 AI 워크로드를 위해 추론 및 추론을 실행하고 있습니다.이 워크숍에서 Amazon EKS에서 LLM을 교육하고 봉사하는 방법을 배우십시오.Jark Stack (Jupyter, Argo Workflows, Ray 및 Karpenter)을 Amazon EKS 클러스터에 배치하는 방법을 알아 내고 이러한 도구를 사용하여 포옹 페이스에서 공개적으로 사용 가능한 모델을 훈련시키는 방법을 배우십시오.이 워크숍은 AWS 파트너를위한 것입니다.

@@ -1,0 +1,1 @@
+AWS End User Messaging SMS API 및 Amazon Simple 이메일 서비스 (Amazon SES)를 사용하여 일회성 비밀번호 (OTP) 애플리케이션의 세계에 뛰어 들면서 AWS SMS 전문가 가입.다단계 인증, 지불 확인 및 계정 복구를위한 OTP 설정을 탐색하십시오.대량, 국제 및 탄력성 OTP 전송에 대한 SMS 및 이메일 구성에 대한 통찰력을 얻으십시오.

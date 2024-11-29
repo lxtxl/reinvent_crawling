@@ -1,0 +1,1 @@
+AWS Amplify는 최근 AWS에서 생산 준비 응용 프로그램을 구축하기위한 풀 스택 타입 스크립트 기능을 갖춘 2 세대 개발자 경험을 시작했습니다.2 세대는 AWS Cloud Development Kit (AWS CDK) 위에 구축되어 생성 AI 사용 사례를위한 Amazon Bedrock을 포함하여 Amplify Application에 200 개 이상의 AWS 서비스를 추가 할 수 있습니다.이 Chalk Talk에 가입하여 AWS CDK 및 Amazon Bedrock을 사용하여 차세대 혁신적인 응용 프로그램 경험을 만들기 위해 증폭 된 전체 스택 타입 스크립트 기능을 확장하기위한 전략에 대해 논의하십시오.
