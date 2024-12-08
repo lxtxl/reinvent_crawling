@@ -111,26 +111,20 @@ if __name__ == "__main__":
     # list = ["NTA304-R", "MAM316-R", "ARC322", "KEY002", "STG316", "EUC206", "AIM368", "KUB303-R1", "KUB402-R1", "KEY004", "TLC303-R1", "KUB305-R1", "KUB308", "PEX402-R1"]
     # main("KUB305-R1")
 
-    # 파일 저장
+    # file 저장
+    # Excel 저장
     catalog_dir = "catalog"
     list = [f.split('.')[0] for f in os.listdir(catalog_dir) if f.endswith('.html')]
     for catalog in list:
         session_info = main(catalog)
+        # Convert session_info to DataFrame if it's the first iteration
+        if 'df' not in locals():
+            df = pd.DataFrame([session_info])
+        else:
+            # Append the new session_info to existing DataFrame
+            df = pd.concat([df, pd.DataFrame([session_info])], ignore_index=True)
 
-    # file 저장
-    # Excel 저장
-    # catalog_dir = "catalog"
-    # list = [f.split('.')[0] for f in os.listdir(catalog_dir) if f.endswith('.html')]
-    # for catalog in list:
-    #     session_info = main(catalog)
-    #     # Convert session_info to DataFrame if it's the first iteration
-    #     if 'df' not in locals():
-    #         df = pd.DataFrame([session_info])
-    #     else:
-    #         # Append the new session_info to existing DataFrame
-    #         df = pd.concat([df, pd.DataFrame([session_info])], ignore_index=True)
-
-    # # After the loop ends, save DataFrame to Excel
-    # output_file = 'session_catalog.xlsx'
-    # df.to_excel(output_file, index=False)
-    # print(f"Session information has been saved to {output_file}")
+    # After the loop ends, save DataFrame to Excel
+    output_file = 'session_catalog.xlsx'
+    df.to_excel(output_file, index=False)
+    print(f"Session information has been saved to {output_file}")

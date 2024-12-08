@@ -3,7 +3,18 @@ import time
 from googletrans import Translator
 from bs4 import BeautifulSoup
 
+def translate_category():
+    # Get the catalog directory path
+    catalog_dir = 'catalog'
     
+    # Iterate through all HTML files in the catalog directory
+    for filename in os.listdir(catalog_dir):
+        translated_filename = f"{catalog}.txt"
+        translate_html_files(filename)
+        time.sleep(3)
+        print(f"Translated {filename} to {translated_filename}")
+    
+        
 def translate_html_files(catalog):
     # Initialize the translator
     translator = Translator()
@@ -56,6 +67,5 @@ def translate_html_files(catalog):
         
 
 if __name__ == "__main__":
-    category="API313-NEW.html"
-    translate_html_files(category)
+    translate_category()
 
