@@ -5,9 +5,12 @@ from bs4 import BeautifulSoup
 import sys
 import requests
 import pandas as pd
+from googletrans import Translator
 
 url = "https://aws.amazon.com/ko/blogs/aws/"
 # https://aws.amazon.com/ko/blogs/aws/page/2/
+
+translator = Translator()
 
 def get_article(soup, html_tag, class_name, title):
     time_location_element = soup.find(f"{html_tag}", {"class": f"{class_name}"})
@@ -35,6 +38,15 @@ def get_span(soup, html_tag, class_name, filter, title):
                 return row.text.strip()
     return f"{title}을 찾을 수 없습니다."
 
+def translate(text):
+    translated = translator.translate(text, dest='ko')
+    print("translated : ", translated)
+    # Replace the original text with translated text
+    translated_text = translated.text
+    print("translated_text : ", translated_text)
+    time.sleep(1)
+    return translated_text
+    
 def get_blog_title(soup):
     return get_article(soup, "h2", "blog-post-title", "title")
     
@@ -87,8 +99,10 @@ def find_page(page):
         print(tag)
         explain = get_blog_explain(row)
         print(explain)
+        ko_title = translate(title)
         session_info = {
             'Title': title,
+            'Ko': ko_title,
             'Url': url_link,
             'Speker': speaker,
             'Date': date,

@@ -64,3 +64,11 @@ python3 find_catalog.py | tee all.txt
 
 Result) session_catalog.xlsx 파일 생성
 ```
+
+## 번역
+1. catalog/*.html 을 읽어서 설명문을 한글로 번역해서 ~.html.txt로 저장
+```
+python3 translate.py
+```
+
+메가존클라우드, Strategic Technology Center (CTC),Cloud Native Platform Team, 서현철

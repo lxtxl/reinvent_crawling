@@ -34,6 +34,7 @@ def login_process(driver):
     login_button.click()
 
     print("로그인 버튼을 클릭했습니다.")
+    time.sleep(30)
 
 def show_more_click_process(driver):
     count = 1
